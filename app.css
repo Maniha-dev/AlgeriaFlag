@@ -1,0 +1,28 @@
+.green{
+    width: 300px;
+    height: 400px;
+    background-color: #047b3e;
+   
+}
+.white{
+    width: 300px;
+    height: 400px;
+    background-color: #ffffff;
+    margin-left: 300px;
+}
+#re{
+    width: 180px;
+    height: 180px;
+    margin-top: 110px;
+    margin-left: 205PX;
+}
+
+.star{
+    width: 2px;
+    height: 2px;
+
+}
+.border{
+    border: solid black;
+    width: 600px;
+}
